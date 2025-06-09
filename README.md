@@ -17,7 +17,7 @@
 
 | 날짜       | 사이트       | 문제명                     | 언어 | 난이도 | 코드 |
 |------------|--------------|----------------------------|------|--------|------|
-| 2025-06-09 | Programmers  | 자연수 뒤집어 배열로 만들기 | Java | Lv1    | [보기](./programmers/java/level1/250609_자연수뒤집어배열로만들기.java) |
+| 2025-06-09 | Programmers  | 자연수 뒤집어 배열로 만들기 | Java | Lv1    | [보기](https://github.com/uoaheu/algorithm/blob/main/programmers/Java/Lv1/250609_%EC%9E%90%EC%97%B0%EC%88%98%EB%92%A4%EC%A7%91%EC%96%B4%EB%B0%B0%EC%97%B4%EB%A1%9C%EB%A7%8C%EB%93%A4%EA%B8%B0.java) |
 
 ---
 
