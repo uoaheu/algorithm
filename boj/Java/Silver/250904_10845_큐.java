@@ -9,7 +9,7 @@ public class Main {
     Queue<Integer> q = new LinkedList<>();
     StringBuilder sb = new StringBuilder();
 
-    // 큐에 N까지 값 넣기
+    // N번 반복
     for(int i = 0; i < N; i++) {
       String str = sc.nextLine();
       // 공백을 기준으로 나누기
